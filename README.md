@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Saachi 👋
 
-<!--
-**saachisabnis/saachisabnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student at the LSE pursuing an Msc in Applied Social Data Science and am interested in working with behavioural data!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- MSc Applied Social Data Science at LSE (2024-2025)
+- BSc Psychological and Behavioural Science at LSE (2021-2024)
+
+
+
+
+
+
