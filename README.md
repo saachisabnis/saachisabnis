@@ -32,6 +32,9 @@ I'm a graduate student at the London School of Economics, pursuing an MSc in App
 | NLP                          | Gendered Media Narratives: Natural Language Processing Analysis of Music Journalism & Public Discourse                        |
 | API, Data Processing         | Event Pricing and Genre Demand Modelling in the US Market using Ticketmaster and US Census API Data            |
 | Computer Programming         | Modelling Social Contagion and Homophily in Online Gaming Cheating Behaviours|
+| Mediation Moderation Analysis | The effect of parasocial relationships and degrees of investment in
+celebrities on likelihood to “cancel” when faced with transgressions |
+| 
 
 
 
